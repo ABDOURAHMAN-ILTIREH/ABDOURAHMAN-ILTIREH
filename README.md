@@ -1,16 +1,16 @@
-### Hi there 👋
 
-<!--
-**ABDOURAHMAN-ILTIREH/ABDOURAHMAN-ILTIREH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###salue 👋, je suis  Abdourahman
+#### je suis un developer fontend
+je suis un developer fontend](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-Here are some ideas to get you started:
+Je suis un développeur front-end passionné par la création de technologies pour élever les gens. certaines technologies avec lesquelles j'aime travailler est javascript, react js, html, css, scss
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills: REACT / JS / HTML / CSS
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
+
+

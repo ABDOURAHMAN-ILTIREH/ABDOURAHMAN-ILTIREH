@@ -1,6 +1,6 @@
 <h1 align="center">👋 Salut, je suis Abdourahman</h1>
 
-<h3 align="center">Développeur Front-End passionné 🚀</h3>
+<h3 align="center">Développeur Full-stack passionné 🚀</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ABDOURAHMAN-ILTIREH&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -31,7 +31,9 @@ J’aime travailler avec des technologies modernes et suivre les bonnes pratique
 - ⚛️ React JS  
 - 🟨 JavaScript  
 - 🌐 HTML5  
-- 🎨 CSS3 / SCSS  
+- 🎨 CSS3 / SCSS
+- Express / Node js
+- Mysql
 
 ---
 
